@@ -84,4 +84,26 @@ This project aligns with the NIST Cybersecurity Framework by helping organizatio
 
 **Ayinde barakat omowunmi**
 
-Google Cybersecurity Professional Certificate (In Progress)
+Google Cybersecurity Professional Certificate 
+
+## Risk Matrix
+
+| Likelihood \ Impact | Low Impact | Medium Impact | High Impact |
+|---------------------|------------|---------------|-------------|
+| **High Likelihood** | Medium Risk | High Risk | 🔴 Critical Risk |
+| **Medium Likelihood** | Low Risk | Medium Risk | 🟠 High Risk |
+| **Low Likelihood** | Low Risk | Low Risk | 🟡 Medium Risk |
+
+### Risk Analysis
+
+| Threat | Likelihood | Impact | Risk Level |
+|--------|------------|--------|------------|
+| Phishing Attack | High | High | 🔴 Critical |
+| Unauthorized Access | High | High | 🔴 Critical |
+| Malware Infection | Medium | High | 🟠 High |
+| Data Loss | Medium | High | 🟠 High |
+| Insider Threat | Low | High | 🟡 Medium |
+
+## Risk Evaluation
+
+The risk matrix helps prioritize cybersecurity threats based on their likelihood of occurring and their potential impact on the organization. Critical and high-risk threats require immediate attention, while medium and low-risk threats should be monitored and mitigated through appropriate security controls.
