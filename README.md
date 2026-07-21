@@ -4,20 +4,39 @@ Hi, I'm Ayinde Barakat Omowunmi.
 
 Welcome to my cybersecurity portfolio. I am an aspiring Cybersecurity Analyst currently completing the Microsoft Cybersecurity Professional Certificate on Coursera.
 
+Featured Projects
+
+- Cybersecurity Risk Assessment
+
+- Phishing Email Analysis
+
+- Security Incident Report
+
+- CIA Triad Case Study
+
 ## 🎯 Career Objective
 
 To build practical cybersecurity skills in Security Operations (SOC), Identity and Access Management (IAM), Incident Response, Vulnerability Management, and Cloud Security.
 
 ## 🛠️ Skills
 
-- Security Operations (SOC)
-- Identity and Access Management (IAM)
-- Microsoft Defender
-- Microsoft Sentinel
-- Microsoft Entra ID
-- Python
+- Risk Assessment
+
+- Incident Response
+
+- Identity & Access Management (IAM)
+
+- Security Awareness
+
+- Linux
+
 - SQL
-- Linus
+
+- Python
+
+- Microsoft Defender
+
+- Microsoft Sentinel
 
 ## 📚 Certifications
 
